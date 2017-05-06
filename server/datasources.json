@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "reactdb": {
+    "host": "127.0.0.1",
+    "port": 5432,
+    "url": "",
+    "database": "reactdb",
+    "password": "senac",
+    "name": "reactdb",
+    "user": "postgres",
+    "connector": "postgresql"
+  }
+}
